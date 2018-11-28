@@ -1,4 +1,4 @@
-# StudentsFlaskApp
+# Students Directory
 
 A simple student directory to get started with Flask Framework. The app has been built using the Flask framework of Python, SQLite Database and Bootstrap.
 
